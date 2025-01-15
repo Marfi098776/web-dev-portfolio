@@ -93,7 +93,7 @@ nav li a{
     max-width: 1140px;
 }
 .item-description{
-
+    font-weight: bold;
 }
 main{
     max-width: 1140px;
