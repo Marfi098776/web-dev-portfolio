@@ -24,6 +24,7 @@
     border: none;
 }
 .header{
+    background-color:#FFF8F3;
     background: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position:top left, bottom right ;
@@ -78,4 +79,29 @@ nav li a{
     width:560px ;
 
 }
+/* about section */
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+    max-width: 1140px;
+}
+.item-description{
+
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+}
+
+
+
     
